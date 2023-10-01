@@ -4,10 +4,13 @@ template: "page"
 socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+As a third-year undergraduate Computer Science student at National Veteran Development University East Java, I am deeply passionate about both cyber and network security, as well as website development. I have a strong interest in protecting systems and system analysis from potential threats.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+![Ketika kamu merasa putus asa, ingatlah alasan mengapa kamu memulai. Ambil nafas, bangkit, dan terus maju. Setiap hari adalah kesempatan baru untuk belajar, tumbuh, dan menjadi versi terbaik dari dirimu sendiri.](/notebook.jpg)
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+_"Ketika kamu merasa putus asa, ingatlah alasan mengapa kamu memulai. Ambil nafas, bangkit, dan terus maju. Setiap hari adalah kesempatan baru untuk belajar, tumbuh, dan menjadi versi terbaik dari dirimu sendiri."_
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+During my time at the university, I acquired knowledge and skills in programming logic, databases, website development, routing, and network analysis.
+I am dedicated to expanding my knowledge and gaining valuable experience to further my professional growth.
+
+Portfolio <a href="https://napuniverse.me">Link</a>
