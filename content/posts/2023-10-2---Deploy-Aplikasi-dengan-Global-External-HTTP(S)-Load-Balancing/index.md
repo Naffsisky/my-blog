@@ -10,7 +10,7 @@ tags:
   - "Cloud Computing"
   - "Load Balancing"
 description: "Deploy aplikasi dengan menggunakan Global External HTTP(S) Load Balancing. Konfigurasi Firewall, Membuat Instance Template dan Instance Group, Konfigurasi Load Balancer (Backend & Frontend), Membuat Health Check, dan Stress Test terhadap Load Balancer."
-socialImage: "global-ext-https-lb.svg"
+socialImage: "./media/global-ext-https-lb.svg"
 ---
 
 ## Intro

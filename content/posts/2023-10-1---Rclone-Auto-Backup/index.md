@@ -10,7 +10,7 @@ tags:
   - "Cloud Computing"
   - "Rclone"
 description: "Tutorial cara membuat auto backup file maupun folder (Linux) ke cloud storage, Google Drive, Microsoft Onedrive, dan lainnya."
-socialImage: "RcloneLogo.svg"
+socialImage: "./media/RcloneLogo.svg"
 ---
 
 Cara membuat auto backup file maupun folder ke cloud storage, Google Drive, Microsoft Onedrive, dan lainnya. Dalam hal ini kita menggunakan Linux (Debian 11).

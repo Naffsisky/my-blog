@@ -10,7 +10,7 @@ tags:
   - "Cloud Computing"
   - "Google Cloud Platform"
 description: "Tutorial cara mendeploy aplikasi frontend berbasis website html memakai framework Bootstrap dan CodeIgniter versi 3 di Google Cloud Platform Compute Engine."
-socialImage: "CodeIgniterLogo.png"
+socialImage: "./media/CodeIgniterLogo.png"
 ---
 
 Disini kita akan mendeploy sebuah aplikasi (Frontend) memakai CodeIgniter 3 dan API (Backend) memakai Node.js. Dalam case ini kita membuat skenario seperti berikut :
