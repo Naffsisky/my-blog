@@ -3,12 +3,10 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 1.1.7
-updates: 
-  - package-ecosystem: npm
+version: 2
+updates:
+  - package-ecosystem: "npm"
     directory: "/"
-    schedule: 
-      interval: daily
-      time: 11:05
-      open-pull-request: true
-      commit-message: "Update dependabot.yml"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 10
