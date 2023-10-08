@@ -9,6 +9,6 @@ updates:
     directory: "/"
     schedule: 
       interval: daily
-      time: 07:00
+      time: 11:05
       open-pull-request: true
       commit-message: "Update dependabot.yml"
