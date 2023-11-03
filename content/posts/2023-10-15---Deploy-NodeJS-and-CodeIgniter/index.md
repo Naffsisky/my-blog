@@ -20,7 +20,7 @@ Kita akan membuat sebuah project yang bernama **Duitmu**
 - [Backend](#backend)
 - [Frontend](#frontend)
 
-## Storage
+## 1. Storage
 
 ### Membuat Storage Bucket
 
@@ -40,7 +40,7 @@ Lalu Create.
 
 ![storage1](./media/storage1.png)
 
-## Database
+## 2. Database
 
 ### Membuat VM Instance
 
@@ -217,7 +217,7 @@ Setelah masuk, akan tampil seperti ini.
 
 Setting Database Server sudah selesai.
 
-## Backend
+## 3. Backend
 
 ### Membuat Service Account
 
@@ -415,7 +415,7 @@ curl localhost:port
 
 Disini server saya memberikan response sukses. Yang berarti sudah berhasil
 
-## Frontend
+## 4. Frontend
 
 ### Membuat VM Instance
 
@@ -531,7 +531,7 @@ sudo a2enmod rewrite
 sudo systemctl restart apache2
 ```
 
-## Test Website Aplikasi
+## 5. Test Website Aplikasi
 
 ### Testing
 
