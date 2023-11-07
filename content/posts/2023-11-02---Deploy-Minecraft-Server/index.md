@@ -126,7 +126,7 @@ rclone mount <nama_drive>: ~/<nama folder lokal>/ --vfs-cache-mode writes
 
 ![rclone 2](./media/rclone-2.png)
 
-Setelah itu tidak akan ada respon apa-apa, kalian keluar screen saja dengan menekan ```ALT + A + D```. Kalian akan diarahkan ke screen utama.
+Setelah itu tidak akan ada respon apa-apa, kalian keluar screen saja dengan menekan ```CTRL + A + D```. Kalian akan diarahkan ke screen utama.
 
 Lalu cek folder kalian di local, apakah sudah ada file-file atau folder yang di dalam cloud (pindah ke local).
 
@@ -175,7 +175,7 @@ Lalu jalankan server kembali dengan perintah
 java -Xms4G -Xmx8G -jar server.jar nogui
 ```
 
-Setelah itu kalian keluar screen saja dengan menekan ```ALT + A + D```. Kalian akan diarahkan ke screen utama.
+Setelah itu kalian keluar screen saja dengan menekan ```CTRL + A + D```. Kalian akan diarahkan ke screen utama.
 
 Untuk sampai step ini sebenarnya server telah aktif dan bisa langsung dimainkan. Namun kita akan menggunakan backup agar file tersebut tidak hilang.
 

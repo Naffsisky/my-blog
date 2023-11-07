@@ -15,10 +15,11 @@ socialImage: "./media/nodejs.jpg"
 
 Kita akan membuat sebuah project yang bernama **Duitmu**
 
-- [Storage](#storage)
-- [Database](#database)
-- [Backend](#backend)
-- [Frontend](#frontend)
+- [Storage](#1-storage)
+- [Database](#2-database)
+- [Backend](#3-backend)
+- [Frontend](#4-frontend)
+- [Testing](#5-test-website-aplikasi)
 
 ## 1. Storage
 
