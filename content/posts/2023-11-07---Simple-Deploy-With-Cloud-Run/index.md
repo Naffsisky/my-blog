@@ -1,5 +1,5 @@
 ---
-title: "Deploy BMKG Rest API Menggunakan Proxy Server Nginx"
+title: "Deploy Simple With Cloud Run"
 date: "2023-11-07T16:24:05"
 template: "post"
 draft: false
@@ -9,8 +9,8 @@ tags:
   - "Cloud Run"
   - "Web Development"
   - "Google Cloud Platform"
-description: "Membuat Backend service Rest API menggunakan Node.js dan framework Express.js. Menggunakan Nginx sebagai Proxy server."
-socialImage: "./media/nginx.png"
+description: "Membuat Backend service menggunakan Node.js dan membuat Container Image lalu dimasukan ke Artifact Registry, membuat Container file dan mendeploy memakai Cloud Run."
+socialImage: "./media/cloudrun.png"
 ---
 
 ## Open API 
